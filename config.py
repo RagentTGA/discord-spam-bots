@@ -1,6 +1,6 @@
 # Basic Config (For all bots)
-userToken = [''] # User Token here, multiple accounts may work. example 'token','token'
-DiscordChannel = '' # Channel ID,
+userToken = ['MjI1MTg3MDkwMjEwNjE5Mzky.C5gjtw.BS3kUT2RXm_OobDtdR2DIAg7gJI'] # User Token here, multiple accounts may work. example 'token','token'
+DiscordChannel = 'nAJ8SGZ' # Channel ID,
 
 #DM Spam
 DiscordServer = '' # Server ID (https://a.safe.moe/KP4DR.png this one)
